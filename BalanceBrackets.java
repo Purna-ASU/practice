@@ -54,6 +54,10 @@ public class BalanceBrackets {
 		return st.isEmpty();
 	}
 	
+	public void dummy()
+	{
+		
+	}
 private static boolean balanceBrakets2(String str) {
 		
 		Stack<Character> st = new Stack<Character>();
