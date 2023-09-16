@@ -39,10 +39,10 @@ public class ReverseArray {
 		int length = arrNum.length ;
 		int arRev[] = new int[length] ;
 	int j = 0;	
-	for(int i = length-1;i>= 0;i--) {
+	for(int i = length-1;i >= 0;i--) {
 		arRev[j] = arrNum[i];
 		j++;
-		System.out.println(Arrays.toString(arRev));
+		//System.out.println(Arrays.toString(arRev));
 	}
 	System.out.println(Arrays.toString(arRev));
 	}

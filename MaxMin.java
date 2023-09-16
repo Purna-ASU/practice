@@ -18,6 +18,13 @@ public class MaxMin {
 		//        System.out.println(nMax(new int[] {4, 3, 2, 8, 9, 5}, 2)); // 8
 		        System.out.println(nMax(new int[] {4, 3, 2, 8, 9, 5}, 2)); // 5
 		      System.out.println(nmin(new int[] {4, 3, 2, 8, 9, 5}, 2)); // 0
+		      
+		      int a[] = {1,3,6,8,10};
+		      
+		      
+		      
+		      
+		     
 	}
 
 	/**
